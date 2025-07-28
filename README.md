@@ -7,6 +7,8 @@ Windows Admin Center - https://img.shields.io/badge/Windows%20Admin%20Center-gre
 Active Directory - https://img.shields.io/badge/Active%20Directory-blue?style=for-the-badge<br/>
 Ventoy - https://img.shields.io/badge/Ventoy-darkblue?style=for-the-badge<br/>
 iVentoy - https://img.shields.io/badge/iVentoy-darkred?style=for-the-badge<br/>
+Gmail - https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=Red<br/>
+
 
 
 
